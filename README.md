@@ -1,0 +1,1 @@
+This repository contains a Dockerfile that fails to build due to missing application code. The Dockerfile uses a `COPY` instruction without specifying the source and destination, causing the build to fail. The `Dockerfile_fixed` file demonstrates the corrected version that includes the necessary application code.
